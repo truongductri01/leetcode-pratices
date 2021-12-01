@@ -8,6 +8,7 @@
 
 # Google Questions
 
-| No  | Problem          | Link                                     | Data Structure | Algorithm | Difficulty |
-| --- | ---------------- | ---------------------------------------- | -------------- | --------- | ---------- |
-| 1   | Shuffle an Array | [here](./Google/Medium/Shuffle_an_array) | Array          |           | Medium     |
+| No  | Problem                    | Link                                        | Data Structure | Algorithm | Difficulty |
+| --- | -------------------------- | ------------------------------------------- | -------------- | --------- | ---------- |
+| 1   | Shuffle an Array           | [here](./Google/Medium/Shuffle_an_array)    | Array          |           | Medium     |
+| 2   | Longest Absolute File Path | [here](./Google/Longest_absolute_file_path) | String, Stack  |           | Medium     |
