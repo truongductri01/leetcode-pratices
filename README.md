@@ -8,8 +8,9 @@
 
 # Google Questions
 
-| No  | Problem                    | Link                                        | Data Structure | Algorithm | Difficulty |
-| --- | -------------------------- | ------------------------------------------- | -------------- | --------- | ---------- |
-| 1   | Shuffle an Array           | [here](./Google/Medium/Shuffle_an_array)    | Array          |           | Medium     |
-| 2   | Longest Absolute File Path | [here](./Google/Longest_absolute_file_path) | String, Stack  |           | Medium     |
-| 2   | Decode String              | [here](./Google/Decode_string)              |                |           |            |
+| No  | Problem                    | Link                                               | Data Structure | Algorithm | Difficulty |
+| --- | -------------------------- | -------------------------------------------------- | -------------- | --------- | ---------- |
+| 1   | Shuffle an Array           | [here](./Google/Medium/Shuffle_an_array)           | Array          |           | Medium     |
+| 2   | Longest Absolute File Path | [here](./Google/Medium/Longest_absolute_file_path) | String, Stack  |           | Medium     |
+| 3   | Decode String              | [here](./Google/Medium/Decode_string)              | String         | Recursion | Medium     |
+| 4   | Employee Important         | [here](./Google/Medium/Employee_importance)        | Tree/Graph     | BFS, DFS  | Medium     |
