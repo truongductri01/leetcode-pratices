@@ -12,3 +12,4 @@
 | --- | -------------------------- | ------------------------------------------- | -------------- | --------- | ---------- |
 | 1   | Shuffle an Array           | [here](./Google/Medium/Shuffle_an_array)    | Array          |           | Medium     |
 | 2   | Longest Absolute File Path | [here](./Google/Longest_absolute_file_path) | String, Stack  |           | Medium     |
+| 2   | Decode String              | [here](./Google/Decode_string)              |                |           |            |
