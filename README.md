@@ -16,3 +16,4 @@
 | 3   | Decode String                      | [here](./Google/Medium/Decode_string)                      | String         | Recursion     | Medium     |
 | 4   | Employee Important                 | [here](./Google/Medium/Employee_importance)                | Tree/Graph     | BFS, DFS      | Medium     |
 | 5   | Minimize Maximum Pair Sum in Array | [here](./Google/Medium/Minimize_Maximum_Pair_Sum_in_Array) | Array          | Two Pointerss | Medium     |
+| 6   | Bulls and Cows                     | [here](./Google/Medium/Bulls_and_cows)                     | String         |               | Medium     |
