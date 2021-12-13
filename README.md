@@ -20,3 +20,4 @@
 | 7   | Find Leaves of Binary Tree                     | [here](./Google/Medium/Find_leaves_of_binary_tree)                                                           | Tree           | DFS           | Medium     |
 | 8   | Unique Email Address                           | [here](./Google/Google_Interview/1_Interview_Process/Easy/Unique_email_addresses)                            | String         |               | Easy       |
 | 9   | Longest Substring Without Repeating Characters | [here](./Google/Google_Interview/2_Arrays_and_Strings/Medium/Longest_Substring_Without_Repeating_Characters) | String         |               | Medium     |
+| 10  | Generate Parentheses                           | [here](./Google/Google_Interview/5_Recursion/Medium/Generate_parentheses)                                    | String, Array  | DP, Recursion | Medium     |
