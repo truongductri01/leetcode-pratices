@@ -21,3 +21,4 @@
 | 8   | Unique Email Address                           | [here](./Google/Google_Interview/1_Interview_Process/Easy/Unique_email_addresses)                            | String         |               | Easy       |
 | 9   | Longest Substring Without Repeating Characters | [here](./Google/Google_Interview/2_Arrays_and_Strings/Medium/Longest_Substring_Without_Repeating_Characters) | String         |               | Medium     |
 | 10  | Generate Parentheses                           | [here](./Google/Google_Interview/5_Recursion/Medium/Generate_parentheses)                                    | String, Array  | DP, Recursion | Medium     |
+| 11  | Letter Combinations of a Phone Number          | [here](./Google/Google_Interview/5_Recursion/Medium/Letter_Combinations_of_a_Phone_Number)                   | String, Array  | Recursion     | Medium     |
