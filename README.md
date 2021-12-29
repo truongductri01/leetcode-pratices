@@ -6,6 +6,7 @@
 | 2   | [All Paths from source to target](./Array/Medium/All_paths_from_source)     | Array          |           | Medium     |
 | 3   | [Product of Array Except Self](./Array/Medium/Product_of_array_except_self) | Array          |           | Medium     |
 | 4   | [Longest Consecutive Sequence](./Array/Medium/Longest_consecutive_sequence) | Array          |           | Medium     |
+| 5   | [Top K Frequent Elements](./Heap/Medium/Top_k_most_frequent_elements)       | Heap           |           | Medium     |
 
 # Google Questions
 
