@@ -1,12 +1,13 @@
 # leetcode-pratices
 
-| No  | Problem                                                                     | Data Structure | Algorithm | Difficulty |
-| --- | --------------------------------------------------------------------------- | -------------- | --------- | ---------- |
-| 1   | [3Sum](./Array/Medium/Three_Sums)                                           | Array          |           | Medium     |
-| 2   | [All Paths from source to target](./Array/Medium/All_paths_from_source)     | Array          |           | Medium     |
-| 3   | [Product of Array Except Self](./Array/Medium/Product_of_array_except_self) | Array          |           | Medium     |
-| 4   | [Longest Consecutive Sequence](./Array/Medium/Longest_consecutive_sequence) | Array          |           | Medium     |
-| 5   | [Top K Frequent Elements](./Heap/Medium/Top_k_most_frequent_elements)       | Heap           |           | Medium     |
+| No  | Problem                                                                                                       | Data Structure | Algorithm | Difficulty |
+| --- | ------------------------------------------------------------------------------------------------------------- | -------------- | --------- | ---------- |
+| 1   | [3Sum](./Array/Medium/Three_Sums)                                                                             | Array          |           | Medium     |
+| 2   | [All Paths from source to target](./Array/Medium/All_paths_from_source)                                       | Array          |           | Medium     |
+| 3   | [Product of Array Except Self](./Array/Medium/Product_of_array_except_self)                                   | Array          |           | Medium     |
+| 4   | [Longest Consecutive Sequence](./Array/Medium/Longest_consecutive_sequence)                                   | Array          |           | Medium     |
+| 5   | [Top K Frequent Elements](./Heap/Medium/Top_k_most_frequent_elements)                                         | Heap           |           | Medium     |
+| 6   | [Kth Largest Element in an Array](./Heap/Medium/Top_k_most_frequent_elements/Kth_Largest_Element_in_an_Array) | Heap           |           | Medium     |
 
 # Google Questions
 
