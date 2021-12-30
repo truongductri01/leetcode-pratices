@@ -24,3 +24,5 @@
 | 9   | Longest Substring Without Repeating Characters | [here](./Google/Google_Interview/2_Arrays_and_Strings/Medium/Longest_Substring_Without_Repeating_Characters) | String         |               | Medium     |
 | 10  | Generate Parentheses                           | [here](./Google/Google_Interview/5_Recursion/Medium/Generate_parentheses)                                    | String, Array  | DP, Recursion | Medium     |
 | 11  | Letter Combinations of a Phone Number          | [here](./Google/Google_Interview/5_Recursion/Medium/Letter_Combinations_of_a_Phone_Number)                   | String, Array  | Recursion     | Medium     |
+| 12  | Meeting Rooms                                  | [here](./Google/Google_Interview/2_Arrays_and_Strings/Easy/Meeting_rooms)                                    | Array          |               | Easy       |
+| 13  | Meeting Rooms II                               | [here](./Google/Google_Interview/2_Arrays_and_Strings/Medium/Meeting_room_II)                                | Array          |               | Easy       |
