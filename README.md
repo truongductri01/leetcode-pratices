@@ -27,3 +27,9 @@
 | 12  | Meeting Rooms                                  | [here](./Google/Google_Interview/2_Arrays_and_Strings/Easy/Meeting_rooms)                                    | Array          |               | Easy       |
 | 13  | Meeting Rooms II                               | [here](./Google/Google_Interview/2_Arrays_and_Strings/Medium/Meeting_room_II)                                | Array          |               | Easy       |
 | 14  | Next Permutation                               | [here](./Google/Google_Interview/2_Arrays_and_Strings/Medium/Next_Permutation)                               | Array          |               | Easy       |
+
+# Problems
+
+| No  | Problem                             | Link                                                          | Data Structure | Algorithm | Difficulty |
+| --- | ----------------------------------- | ------------------------------------------------------------- | -------------- | --------- | ---------- |
+| 1   | Maximize Distance to Closest Person | [here](./Problems/Medium/Maximize_Distance_to_Closest_Person) | Array          |           | Medium     |
