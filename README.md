@@ -26,3 +26,4 @@
 | 11  | Letter Combinations of a Phone Number          | [here](./Google/Google_Interview/5_Recursion/Medium/Letter_Combinations_of_a_Phone_Number)                   | String, Array  | Recursion     | Medium     |
 | 12  | Meeting Rooms                                  | [here](./Google/Google_Interview/2_Arrays_and_Strings/Easy/Meeting_rooms)                                    | Array          |               | Easy       |
 | 13  | Meeting Rooms II                               | [here](./Google/Google_Interview/2_Arrays_and_Strings/Medium/Meeting_room_II)                                | Array          |               | Easy       |
+| 14  | Next Permutation                               | [here](./Google/Google_Interview/2_Arrays_and_Strings/Medium/Next_Permutation)                               | Array          |               | Easy       |
