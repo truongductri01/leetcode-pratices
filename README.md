@@ -28,6 +28,15 @@
 | 13  | Meeting Rooms II                               | [here](./Google/Google_Interview/2_Arrays_and_Strings/Medium/Meeting_room_II)                                | Array          |               | Easy       |
 | 14  | Next Permutation                               | [here](./Google/Google_Interview/2_Arrays_and_Strings/Medium/Next_Permutation)                               | Array          |               | Easy       |
 
+# Google LinkedList Questions
+
+Copy List with Random Pointer
+
+| No  | Problem                       | Link                                                                                | Data Structure | Algorithm | Difficulty |
+| --- | ----------------------------- | ----------------------------------------------------------------------------------- | -------------- | --------- | ---------- |
+| 1   | Copy List with Random Pointer | [here](./Google/Google_Interview/3_LinkedList/Medium/Copy_List_with_Random_Pointer) | LinkedList     |           | Medium     |
+| 2   | Merge Two Sorted Lists        | [here](./Google/Google_Interview/3_LinkedList/Medium/Merge_Two_Sorted_Lists)        | LinkedList     |           | Medium     |
+
 # Problems
 
 | No  | Problem                             | Link                                                          | Data Structure | Algorithm | Difficulty |

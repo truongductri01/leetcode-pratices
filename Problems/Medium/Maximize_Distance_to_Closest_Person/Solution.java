@@ -1,3 +1,5 @@
+package Problems.Medium.Maximize_Distance_to_Closest_Person;
+
 class Solution {
     public int maxDistToClosest(int[] seats) {
         /*

@@ -1,5 +1,5 @@
 class Solution:
-    def maxDistToClosest(self, seats: List[int]) -> int:
+    def maxDistToClosest(self, seats: list[int]) -> int:
         result = 0
         prevSeatIdx = -1
         for i in range(len(seats)):
