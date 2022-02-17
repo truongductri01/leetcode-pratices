@@ -8,6 +8,8 @@
 | 4   | [Longest Consecutive Sequence](./Array/Medium/Longest_consecutive_sequence)                                   | Array          |           | Medium     |
 | 5   | [Top K Frequent Elements](./Heap/Medium/Top_k_most_frequent_elements)                                         | Heap           |           | Medium     |
 | 6   | [Kth Largest Element in an Array](./Heap/Medium/Top_k_most_frequent_elements/Kth_Largest_Element_in_an_Array) | Heap           |           | Medium     |
+| 7   | [Maximize Distance to Closest Person](./Problems/Medium/Maximize_Distance_to_Closest_Person)                  | Array          |           | Medium     |
+| 8   | [Kth Smallest Element in BST](./Problems/Medium/Kth_smallest_element_in_BST)                                  | Array          |           | Medium     |
 
 # Google Questions
 
@@ -37,9 +39,3 @@ Copy List with Random Pointer
 | --- | ----------------------------- | ----------------------------------------------------------------------------------- | -------------- | --------- | ---------- |
 | 1   | Copy List with Random Pointer | [here](./Google/Google_Interview/3_LinkedList/Medium/Copy_List_with_Random_Pointer) | LinkedList     |           | Medium     |
 | 2   | Merge Two Sorted Lists        | [here](./Google/Google_Interview/3_LinkedList/Medium/Merge_Two_Sorted_Lists)        | LinkedList     |           | Medium     |
-
-# Problems
-
-| No  | Problem                             | Link                                                          | Data Structure | Algorithm | Difficulty |
-| --- | ----------------------------------- | ------------------------------------------------------------- | -------------- | --------- | ---------- |
-| 1   | Maximize Distance to Closest Person | [here](./Problems/Medium/Maximize_Distance_to_Closest_Person) | Array          |           | Medium     |
