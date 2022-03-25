@@ -10,6 +10,7 @@
 | 6   | [Kth Largest Element in an Array](./Heap/Medium/Top_k_most_frequent_elements/Kth_Largest_Element_in_an_Array) | Heap           |           | Medium     |
 | 7   | [Maximize Distance to Closest Person](./Problems/Medium/Maximize_Distance_to_Closest_Person)                  | Array          |           | Medium     |
 | 8   | [Kth Smallest Element in BST](./Problems/Medium/Kth_smallest_element_in_BST)                                  | Array          |           | Medium     |
+| 9   | [Add Two Numbers](./Problems/Medium/Add_Two_Numbers)                                                          | LinkedList     |           | Medium     |
 
 # Google Questions
 
