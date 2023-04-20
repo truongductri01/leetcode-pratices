@@ -6,3 +6,5 @@ Source: [here](https://neetcode.io/practice)
 #### Arrays and Hashing
 - [x] Contains Duplicate
 - [x] Valid Anagram
+- [x] Two Sum
+- [x] Group Anagrams
