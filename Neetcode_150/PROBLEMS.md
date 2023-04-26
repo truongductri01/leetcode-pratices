@@ -4,7 +4,8 @@ Source: [here](https://neetcode.io/practice)
 ### List
 
 #### Arrays and Hashing
-- [x] Contains Duplicate
-- [x] Valid Anagram
-- [x] Two Sum
-- [x] Group Anagrams
+- [x] 1. Contains Duplicate
+- [x] 2. Valid Anagram
+- [x] 3. Two Sum
+- [x] 4. Group Anagrams
+- [x] 5. Product Of Array Except Self
