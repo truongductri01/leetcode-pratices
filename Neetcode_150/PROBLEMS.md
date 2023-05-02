@@ -10,6 +10,7 @@ Source: [here](https://neetcode.io/practice)
 - [x] 4. Group Anagrams
 - [x] 5. Product Of Array Except Self
 - [x] 6. Valid Sudoku
+- [x] 7. Longest Consecutive Sequence
 
 
 
