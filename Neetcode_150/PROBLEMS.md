@@ -11,6 +11,7 @@ Source: [here](https://neetcode.io/practice)
 - [x] 5. Product Of Array Except Self
 - [x] 6. Valid Sudoku
 - [x] 7. Longest Consecutive Sequence
+- [x] 8. Top K Frequent Elements - (Utilize Heap)
 
 
 
