@@ -1,3 +1,4 @@
+// Solution 1
 class Solution {
     class Pair{
         int value;
@@ -61,6 +62,43 @@ class Solution {
             // System.out.println(top.value + " " + top.frequency);
             result[i] = top.value;
         }
+        return result;
+    }
+}
+
+// Solution 2
+class Solution {
+    public int[] topKFrequent(int[] nums, int k) {
+        int maxFreq = 0;
+        Map<Integer, Integer> map = new HashMap<>();
+        List<List<Integer>> freqList = new ArrayList<>();
+
+        for (int n: nums) {
+            map.putIfAbsent(n, 0);
+            map.put(n, map.get(n) + 1);
+        }
+
+        for (int n: map.keySet()) {
+            maxFreq = Math.max(maxFreq, map.get(n));
+        }
+
+        for (int i = 0; i <= maxFreq ; i++) {
+            freqList.add(new ArrayList<>());
+        }
+        for (int n: map.keySet()) {
+            freqList.get(map.get(n)).add(n);
+        }
+
+        // get the result
+        int[] result = new int[k];
+        int idx = 0;
+        for (int i = maxFreq; i >= 1 && idx < k; i--) {
+            for (int n: freqList.get(i)) {
+                result[idx] = n;
+                idx ++;
+            }
+        }
+
         return result;
     }
 }
