@@ -12,6 +12,7 @@ Source: [here](https://neetcode.io/practice)
 - [x] 6. Valid Sudoku
 - [x] 7. Longest Consecutive Sequence
 - [x] 8. Top K Frequent Elements - (Utilize Heap)
+- [x] 9. Encode and Decode String
 
 
 
