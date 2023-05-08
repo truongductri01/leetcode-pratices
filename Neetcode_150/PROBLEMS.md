@@ -18,3 +18,7 @@ Source: [here](https://neetcode.io/practice)
 
 #### Sliding Window
 - [x] 1. Best time to Buy and Sell Stocks
+
+
+#### Graphs
+- [x] 1. Counting Island 
