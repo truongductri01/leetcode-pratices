@@ -21,4 +21,4 @@ Source: [here](https://neetcode.io/practice)
 
 
 #### Graphs
-- [x] 1. Counting Island 
+- [x] 1. Number Of Islands
