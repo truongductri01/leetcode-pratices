@@ -24,3 +24,4 @@ Source: [here](https://neetcode.io/practice)
 - [x] 1. Number Of Islands
 - [x] 2. Max Area of Islands
 - [x] 3. Redundant Connection
+- [x] 4. Number of Connected Component
