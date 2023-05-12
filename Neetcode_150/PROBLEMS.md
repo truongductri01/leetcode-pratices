@@ -23,3 +23,4 @@ Source: [here](https://neetcode.io/practice)
 #### Graphs
 - [x] 1. Number Of Islands
 - [x] 2. Max Area of Islands
+- [x] 3. Redundant Connection
