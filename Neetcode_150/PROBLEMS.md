@@ -25,3 +25,7 @@ Source: [here](https://neetcode.io/practice)
 - [x] 2. Max Area of Islands
 - [x] 3. Redundant Connection
 - [x] 4. Number of Connected Component
+
+
+#### Trees
+- [x] 1. Counting Good Nodes
