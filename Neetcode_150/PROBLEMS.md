@@ -30,3 +30,7 @@ Source: [here](https://neetcode.io/practice)
 #### Trees
 - [x] 1. Counting Good Nodes
 - [x] 2. Binary Tree Level Order Traversal
+
+
+#### 1-D Dynamic Programming
+- [x] 1. Word Break
