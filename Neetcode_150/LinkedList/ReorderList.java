@@ -135,3 +135,50 @@ class Solution {
         // printList(newHead);
     }
 }
+
+
+// Second solution
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public void reorderList(ListNode head) {
+        /**
+        We can reorder this by assigning the index for each node and combine them using that index
+        */
+        int n = 0;
+        List<ListNode> original = new ArrayList<>();
+        ListNode current = head;
+        while (current != null) {
+            original.add(current);
+            n ++;
+            current = current.next;
+        }
+
+
+        List<ListNode> modify = new ArrayList<>();
+        int half = n / 2;
+        if (n % 2 == 1) half ++;
+        for (int i = 0; i < half; i++) {
+            modify.add(original.get(i));
+            if (i != n - 1 - i) {
+                modify.add(original.get(n - 1 - i));
+            }
+        }
+
+        for (int i = 0; i < modify.size(); i++) {
+            if (i == modify.size() - 1) {
+                modify.get(i).next = null;
+            } else {
+                modify.get(i).next = modify.get(i + 1);
+            }
+        }
+    }
+}
