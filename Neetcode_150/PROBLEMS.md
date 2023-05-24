@@ -14,6 +14,8 @@ Source: [here](https://neetcode.io/practice)
 - [x] 8. Top K Frequent Elements - (Utilize Heap)
 - [x] 9. Encode and Decode String
 
+#### LinkedList
+- [x] 1. Reorder List
 
 
 #### Sliding Window
