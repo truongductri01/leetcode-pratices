@@ -34,5 +34,9 @@ Source: [here](https://neetcode.io/practice)
 - [x] 2. Binary Tree Level Order Traversal
 
 
+#### Stacks
+- [x] 1. Evaluate Reverse Polish Notation
+
+
 #### 1-D Dynamic Programming
 - [x] 1. Word Break
