@@ -40,3 +40,7 @@ Source: [here](https://neetcode.io/practice)
 
 #### 1-D Dynamic Programming
 - [x] 1. Word Break
+
+
+#### Intervals
+- [x] 1. Non-overlapping Intervals
