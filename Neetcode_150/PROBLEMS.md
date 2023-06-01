@@ -42,6 +42,9 @@ Source: [here](https://neetcode.io/practice)
 #### 1-D Dynamic Programming
 - [x] 1. Word Break
 
+#### Greedy
+- [x] 1. Jump Game
+
 
 #### Intervals
 - [x] 1. Non-overlapping Intervals
