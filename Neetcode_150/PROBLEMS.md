@@ -16,7 +16,7 @@ Source: [here](https://neetcode.io/practice)
 
 #### LinkedList
 - [x] 1. Reorder List
-
+- [x] 2. Reverse Nodes in k-Group
 
 #### Sliding Window
 - [x] 1. Best time to Buy and Sell Stocks
