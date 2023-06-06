@@ -49,3 +49,4 @@ Source: [here](https://neetcode.io/practice)
 #### Intervals
 - [x] 1. Non-overlapping Intervals
 - [x] 2. Meeting Rooms II
+- [x] 3. Meeting Rooms [Easy]
