@@ -50,3 +50,8 @@ Source: [here](https://neetcode.io/practice)
 - [x] 1. Non-overlapping Intervals
 - [x] 2. Meeting Rooms II
 - [x] 3. Meeting Rooms [Easy]
+
+
+#### Advanced Graphs
+- [x] 1. Swim in Rising Water [Hard]
+
