@@ -55,3 +55,7 @@ Source: [here](https://neetcode.io/practice)
 #### Advanced Graphs
 - [x] 1. Swim in Rising Water [Hard]
 
+
+#### BackTracking
+- [x] 1. Subsets [Medium]
+
