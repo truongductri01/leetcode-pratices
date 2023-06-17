@@ -59,3 +59,7 @@ Source: [here](https://neetcode.io/practice)
 #### BackTracking
 - [x] 1. Subsets [Medium]
 
+
+#### Free Choice (Not in Neetcode)
+- [x] 1. Max Chunks To Make Sorted II [Hard]
+
