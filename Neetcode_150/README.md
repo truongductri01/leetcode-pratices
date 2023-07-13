@@ -26,13 +26,15 @@ Source: [here](https://neetcode.io/practice)
 - [x] 1. Number Of Islands
 - [x] 2. Max Area of Islands
 - [x] 3. Redundant Connection
-- [x] 4. Number of Connected Component
+- [x] 4. Number of Connected Components
 - [x] 5. Graph Valid Tree
 
 
 #### Trees
 - [x] 1. Counting Good Nodes
 - [x] 2. Binary Tree Level Order Traversal
+- [x] 3. Binary Tree Pruning - [Medium]
+
 
 
 #### Stacks
