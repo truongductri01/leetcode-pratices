@@ -33,8 +33,6 @@ Source: [here](https://neetcode.io/practice)
 #### Trees
 - [x] 1. Counting Good Nodes
 - [x] 2. Binary Tree Level Order Traversal
-- [x] 3. Binary Tree Pruning - [Medium]
-
 
 
 #### Stacks
@@ -65,4 +63,5 @@ Source: [here](https://neetcode.io/practice)
 
 #### Free Choice (Not in Neetcode)
 - [x] 1. Max Chunks To Make Sorted II [Hard]
+- [x] 2. Binary Tree Pruning - [Medium]
 
