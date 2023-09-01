@@ -42,6 +42,9 @@ Source: [here](https://neetcode.io/practice)
 #### 1-D Dynamic Programming
 - [x] 1. Word Break
 
+#### 2-D Dynamic Programming
+- [x] 1. Interleaving String - [Medium]
+
 #### Greedy
 - [x] 1. Jump Game
 
@@ -59,6 +62,7 @@ Source: [here](https://neetcode.io/practice)
 
 #### BackTracking
 - [x] 1. Subsets [Medium]
+- [x] 2. Palindrome Partitioning - [Medium]
 
 
 #### Free Choice (Not in Neetcode)
