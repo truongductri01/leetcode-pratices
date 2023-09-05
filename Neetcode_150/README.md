@@ -14,6 +14,9 @@ Source: [here](https://neetcode.io/practice)
 - [x] 8. Top K Frequent Elements - (Utilize Heap)
 - [x] 9. Encode and Decode String
 
+#### Binary Search
+- [x] Koko Eating Banana - [Medium]
+
 #### LinkedList
 - [x] 1. Reorder List
 - [x] 2. Reverse Nodes in k-Group
