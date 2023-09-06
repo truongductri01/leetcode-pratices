@@ -73,3 +73,6 @@ Source: [here](https://neetcode.io/practice)
 - [x] 1. Max Chunks To Make Sorted II [Hard]
 - [x] 2. Binary Tree Pruning - [Medium]
 
+#### Two Pointers
+- [x] 1. Two Sum II - Input Array Is Sorted - [Medium]
+
