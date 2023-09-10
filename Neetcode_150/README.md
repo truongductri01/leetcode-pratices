@@ -39,6 +39,8 @@ Source: [here](https://neetcode.io/practice)
 - [x] 2. Binary Tree Level Order Traversal
 - [x] 3. Lowest Common Ancestor of a Binary Search Tree - [Medium]
 
+#### Tries
+- [x] 1. Implement Trie (Prefix Tree) - [Medium]
 
 #### Stacks
 - [x] 1. Evaluate Reverse Polish Notation
