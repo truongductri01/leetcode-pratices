@@ -39,6 +39,7 @@ Source: [here](https://neetcode.io/practice)
 - [x] 1. Counting Good Nodes
 - [x] 2. Binary Tree Level Order Traversal
 - [x] 3. Lowest Common Ancestor of a Binary Search Tree - [Medium]
+- [x] 4. Diameter of Binary Tree - [Easy]
 
 #### Tries
 - [x] 1. Implement Trie (Prefix Tree) - [Medium]
