@@ -33,6 +33,7 @@ Source: [here](https://neetcode.io/practice)
 - [x] 3. Redundant Connection
 - [x] 4. Number of Connected Components
 - [x] 5. Graph Valid Tree
+- [x] 6. Course Schedule - [Medium]
 
 
 #### Trees
