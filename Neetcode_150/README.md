@@ -16,7 +16,8 @@ Source: [here](https://neetcode.io/practice)
 
 #### Binary Search
 - [x] Koko Eating Banana - [Medium]
-- [x] Time Based Key-Value Store - [Medium] 
+- [x] Time Based Key-Value Store - [Medium]
+- [x] Search a 2D Matrix - [Medium]
 
 #### LinkedList
 - [x] 1. Reorder List
