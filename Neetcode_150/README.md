@@ -71,6 +71,7 @@ Source: [here](https://neetcode.io/practice)
 #### Advanced Graphs
 - [x] 1. Swim in Rising Water [Hard]
 - [x] 2. Network Delay Time [Medium]
+- [x] 3. Min Cost to Connect All points - [Medium]
 
 
 #### BackTracking
