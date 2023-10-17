@@ -60,7 +60,7 @@ Source: [here](https://neetcode.io/practice)
 
 #### Greedy
 - [x] 1. Jump Game
-
+- [x] 2. Valid Parenthesis String
 
 #### Intervals
 - [x] 1. Non-overlapping Intervals
