@@ -85,6 +85,7 @@ Source: [here](https://neetcode.io/practice)
 
 #### Two Pointers
 - [x] 1. Two Sum II - Input Array Is Sorted - [Medium]
+- [x] 2. 3Sum - [Medium]
 
 #### Heap / Priority Queue
 - [x] 1. Task Scheduler - [Medium]
