@@ -82,6 +82,7 @@ Source: [here](https://neetcode.io/practice)
 #### Free Choice (Not in Neetcode)
 - [x] 1. Max Chunks To Make Sorted II [Hard]
 - [x] 2. Binary Tree Pruning - [Medium]
+- [x] 3. Maximum Distance in Arrays - [Medium]
 
 #### Two Pointers
 - [x] 1. Two Sum II - Input Array Is Sorted - [Medium]
