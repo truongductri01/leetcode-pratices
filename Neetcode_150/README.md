@@ -43,6 +43,7 @@ Source: [here](https://neetcode.io/practice)
 - [x] 2. Binary Tree Level Order Traversal
 - [x] 3. Lowest Common Ancestor of a Binary Search Tree - [Medium]
 - [x] 4. Diameter of Binary Tree - [Easy]
+- [x] 5. Construct Binary Tree from Preorder and Inorder Traversal - [Medium]
 
 #### Tries
 - [x] 1. Implement Trie (Prefix Tree) - [Medium]
