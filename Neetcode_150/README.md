@@ -56,6 +56,7 @@ Source: [here](https://neetcode.io/practice)
 #### 1-D Dynamic Programming
 - [x] 1. Word Break
 - [x] 2. Palindromic Substrings - [Medium]
+- [x] 3. Climbing Stairs - [Easy]
    
 #### 2-D Dynamic Programming
 - [x] 1. Interleaving String - [Medium]
