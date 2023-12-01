@@ -36,6 +36,7 @@ Source: [here](https://neetcode.io/practice)
 - [x] 4. Number of Connected Components
 - [x] 5. Graph Valid Tree
 - [x] 6. Course Schedule - [Medium]
+- [x] 7. Walls and Gates - [Medium]
 
 
 #### Trees
