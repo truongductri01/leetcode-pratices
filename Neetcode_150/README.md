@@ -80,6 +80,7 @@ Source: [here](https://neetcode.io/practice)
 #### BackTracking
 - [x] 1. Subsets [Medium]
 - [x] 2. Palindrome Partitioning - [Medium]
+- [x] 3. Combination Sum - [Medium]
 
 
 #### Free Choice (Not in Neetcode)
